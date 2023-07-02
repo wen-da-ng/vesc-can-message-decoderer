@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vesc-can-message-decoderer/static/css/main.a8ccd24b.css",
+    "main.js": "/vesc-can-message-decoderer/static/js/main.274820dd.js",
+    "static/js/787.0c3f432a.chunk.js": "/vesc-can-message-decoderer/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/vesc-can-message-decoderer/index.html",
+    "main.a8ccd24b.css.map": "/vesc-can-message-decoderer/static/css/main.a8ccd24b.css.map",
+    "main.274820dd.js.map": "/vesc-can-message-decoderer/static/js/main.274820dd.js.map",
+    "787.0c3f432a.chunk.js.map": "/vesc-can-message-decoderer/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ccd24b.css",
+    "static/js/main.274820dd.js"
+  ]
+}
